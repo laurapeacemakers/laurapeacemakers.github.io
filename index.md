@@ -1,6 +1,6 @@
 ## The topic
 
-There is a lot of talking going on about migrants in European media and politics. But instead of raising awareness for the problems migrants are facing in their home countries, stereotypes and generalizations prevail. We started this project to focus on the individuals behind the process, their stories, views, motivations, beliefs. Our aim is to foster *multicategorization* and *contact* with migrants in Europe.
+There is a lot of talking going on about migrants in European media and politics. But instead of raising awareness for the problems migrants are facing in their home countries, stereotypes and generalizations prevail. We started this project to focus on the individuals behind the process, their stories, views, motivations, beliefs. Our aim is to foster **multicategorization** and **contact** with migrants in Europe.
 
 ## How do we do that?
 
@@ -10,7 +10,7 @@ In our town Cesena (Emilia-Romagna, Italy) we organize intercultural dinners and
 
 Adele, Leonardo, Laura, Pier and Chiara, five Psychology students from University of Bologna (Campus of Cesena), Italy.
 This project is part of the bigger Erasmus+ project "Peacemakers", led by Koc University and other partner Universities. Its aim is to foster a more peaceful generation in Europe and in Turkey that approaches migrants with positive attitudes.
-If you want to find out more, check here: https://peacemakers.ku.edu.tr/
+If you want to find out more, check here: [ https://peacemakers.ku.edu.tr/ ]
 
 ## Spread the word
 
