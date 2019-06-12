@@ -8,4 +8,11 @@ github_username: "laurapeacemakers"
 theme: jekyll-theme-minimal
 
 
-title: "Recipes"
+# _pages
+- scope:
+    path: ""
+    types: pages
+    values:
+    layout: single
+    author_profile: true
+    
