@@ -10,7 +10,7 @@ In our town Cesena (Emilia-Romagna, Italy) we organize intercultural dinners and
 
 Adele, Leonardo, Laura, Pier and Chiara, five Psychology students from University of Bologna (Campus of Cesena), Italy.
 This project is part of the bigger Erasmus+ project "Peacemakers", led by Koc University and other partner Universities. Its aim is to foster a more peaceful generation in Europe and in Turkey that approaches migrants with positive attitudes.
-If you want to find out more, check here: [https://peacemakers.ku.edu.tr/]
+If you want to find out more, check [here.] (https://peacemakers.ku.edu.tr)
 
 ## Spread the word
 
