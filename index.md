@@ -14,4 +14,4 @@ If you want to find out more, check https://peacemakers.ku.edu.tr
 
 ## Spread the word
 
-We want to encourage other cities to join us and together improve integration of migrants in Europe. Migrants living here, students, locals, everyone - this website is open to your contributions. If you want to find out more or join us, don't hesitate to contact us: laura.bruhn@studio.unibo.it
+We want to encourage other cities to join us and together improve integration of migrants in Europe. Migrants living here, students, locals, everyone - this website is open to your contributions. If you want to find out more or join us, don't hesitate to contact us: peacemakers.unibo@gmail.com
