@@ -1,6 +1,6 @@
 ## The topic
 
-There is a lot of talking going on about migrants in European media and politics. But instead of raising awareness for the problems migrants are facing in their home countries, stereotypes and generalizations prevail. We started this project to focus on the individuals behind the process, their stories, views, motivations, beliefs. Our aim is to foster **multicategorization** and **contact** with migrants in Europe.
+There is a lot of discussion going on about migrants in European media and politics. But instead of raising awareness for the problems migrants are facing in their home countries, stereotypes and generalizations prevail. We started this project to focus on the individuals behind the process, their stories, views, motivations, beliefs. Our aim is to foster **multicategorization** and **contact** with migrants in Europe.
 
 ## How do we do that?
 
