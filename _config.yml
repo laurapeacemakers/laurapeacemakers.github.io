@@ -3,6 +3,11 @@ author: "Laura Bruhn"
 email: "laura.bruhn@studio.unibo.it"
 description: "This is the website for our project <b>the world at dinner</b> which focuses on a better integration of migrants and creating a more welcoming environment in Europe."
 
+pages:
+- The project: 'index.md'
+- The recipes: 'recipes.md'
+- The stories: ' stories.md'
+
 facebook_username: "Peacemakers Project UNIBO"
 github_username: "laurapeacemakers"
 theme: jekyll-theme-minimal
