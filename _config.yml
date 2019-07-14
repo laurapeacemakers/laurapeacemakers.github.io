@@ -5,8 +5,8 @@ description: "This is the website for our project <b>the world at dinner</b> whi
 
 pages:
     - The project: 'index.md'
-    - The recipes: 'recipes.md'
-    - The stories: 'stories.md'
+    - The recipes: '_docs/recipes.md'
+    - The stories: '_docs/stories.md'
 
 facebook_username: "Peacemakers Project UNIBO"
 github_username: "laurapeacemakers"
